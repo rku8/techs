@@ -1,0 +1,6 @@
+Deployment: 2 deployment (Azur,aws,GCP)
+Framework: 2 framework( flask, django, etc)
+SQL: 2 sql(relational(MYSQL), non-relational(MongoDB))
+IDE: 2 ide( VS code, pycharm, jupyter lab)
+Notebook: 3 notebook (jupyter notebook, google colab, kaggle notebook)
+Profile: 3 profile (LinkedIN, gitHub, Kaggle; medium)
